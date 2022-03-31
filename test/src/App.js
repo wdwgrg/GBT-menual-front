@@ -4,7 +4,7 @@ function App() {
     return (
         <div className="App">
             <TodoApp />
-            {/* 이것은 메뉴얼 test8 */}
+            {/* 이것은 메뉴얼용 입니다 test8 */}
         </div>
     );
 }
